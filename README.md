@@ -45,6 +45,7 @@ Use [imagetostl.com](https://imagetostl.com/convert/file/obj/to/wrl) to convert 
 
 ## :camera: Photos
 ![](photos%2FScreen%20Shot%202022-09-11%20at%205.01.26%20PM.png)
+![](photos%2FScreen%20Shot%202022-09-11%20at%205.05.44%20PM.png)
 ![](photos%2FScreen%20Shot%202022-09-11%20at%205.11.56%20PM.png)
 ![](photos%2FTaiss%20RS26%20Rotary%20Switch%20v4.png)
 
