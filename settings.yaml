@@ -1,26 +1,36 @@
 ---
-name: Changeme
+name: Taiss Rotary Switch 1P12T (RS26)
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
+  3d Model of the Taiss Rotary Switch
 
-  **Do not edit README.md directly as it will be overwritten..**
+  This switch is used commonly in electronics equipment since it has isolated contacts. 
+  It allows the user to configure endstops. It can be configured for as lows as 2 positions and as many as 12 positions.
+
+  Useful for schematic and PCB design
+  - Eagle
+  - KiCad
+  - EasyEDA
+  - Altium
+
+  The CAD directory contains the following formats
+  - f3d (Autodesk Fusion 360)
+  - obj
+  - WRL (For EasyEDA)
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2022
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  Amazon: https://www.amazon.com/dp/B074WMC9C8?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_NYKKG7NGGQTN4VQY44J5
+  Little Bear: https://www.amazon.com/dp/B07DNYF22N?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_94MM00R187P0NEPG359Y
+# fusion_link: https://autodesk.example.com #comment out if no fusion link
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Printables: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  # Thingiverse: https://www.thingiverse.com/thing:xxxx
+  # Printables: https://foo.com
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  # Hackaday: https://hackaday.io/foo
+  # Reddit: https://www.reddit.com/r/foo
+  # Github: https://github.com/foo
+  # Blog: https://foo.com
