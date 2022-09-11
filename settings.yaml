@@ -17,6 +17,10 @@ description: |
   - obj
   - WRL (For EasyEDA)
 
+  ## Conversion
+
+  Use [imagetostl.com](https://imagetostl.com/convert/file/obj/to/wrl) to convert the obj to wrl
+
 license: 
   type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
@@ -32,5 +36,5 @@ links:
   # Hackster.io: https://hackster.io/foo
   # Hackaday: https://hackaday.io/foo
   # Reddit: https://www.reddit.com/r/foo
-  # Github: https://github.com/foo
+  Github: https://github.com/spuder/taiss-rotary-switch
   # Blog: https://foo.com

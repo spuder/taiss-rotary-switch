@@ -16,7 +16,17 @@ The CAD directory contains the following formats
 - obj
 - WRL (For EasyEDA)
 
+## Conversion
 
+Use [imagetostl.com](https://imagetostl.com/convert/file/obj/to/wrl) to convert the obj to wrl
+
+
+
+## :globe_with_meridians: Links
+
+
+
+- **Github**: [https://github.com/spuder/taiss-rotary-switch](https://github.com/spuder/taiss-rotary-switch)
 
 ## :triangular_ruler: CAD files
 
