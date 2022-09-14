@@ -20,6 +20,11 @@ The CAD directory contains the following formats
 
 Use [imagetostl.com](https://imagetostl.com/convert/file/obj/to/wrl) to convert the obj to wrl
 
+## PCB
+
+A PDF and PNG image are provided so you can print your own through hole PCB
+A gerber file is also provided for those who want to use a PCB service
+
 
 
 ## :globe_with_meridians: Links
@@ -37,6 +42,7 @@ Use [imagetostl.com](https://imagetostl.com/convert/file/obj/to/wrl) to convert 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
 | [CAD/Taiss RS26 Rotary Switch v4.stl](./CAD%2FTaiss%20RS26%20Rotary%20Switch%20v4.stl) | ![](./CAD%2FTaiss%20RS26%20Rotary%20Switch%20v4.png) | ![](./CAD%2FTaiss%20RS26%20Rotary%20Switch%20v4.gif) | 
+| [CAD/Taiss RS26 Rotary Switch v5.stl](./CAD%2FTaiss%20RS26%20Rotary%20Switch%20v5.stl) | ![](./CAD%2FTaiss%20RS26%20Rotary%20Switch%20v5.png) | ![](./CAD%2FTaiss%20RS26%20Rotary%20Switch%20v5.gif) | 
 
 
 ## :notebook: Resources
@@ -44,6 +50,7 @@ Use [imagetostl.com](https://imagetostl.com/convert/file/obj/to/wrl) to convert 
 - [Little Bear](https://www.amazon.com/dp/B07DNYF22N?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_94MM00R187P0NEPG359Y)
 
 ## :camera: Photos
+![](photos%2FPCB_PCB_Rotary%20Switch%20Taiss%201P12T%20RS26_2022-09-13.png)
 ![](photos%2FScreen%20Shot%202022-09-11%20at%205.01.26%20PM.png)
 ![](photos%2FScreen%20Shot%202022-09-11%20at%205.05.44%20PM.png)
 ![](photos%2FScreen%20Shot%202022-09-11%20at%205.11.56%20PM.png)
